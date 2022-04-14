@@ -16,7 +16,7 @@ The number of samples per class are:
 7. Trailer  1179
 Total:      29474
 
-![alt text](samples.png?raw=true)
+![alt text](samples.jpg?raw=true)
 
 Out of these total samples, 80%, 15%, and 5% were taken as train, validation, and test dataset respectively. The folders are setup accordingly, each of them having both images and labels. The dataset is ready to be trained on YOLO models. The terms and condition of using the dataset is to acknowledge and cite the following paper:
 
