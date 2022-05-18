@@ -24,4 +24,4 @@ Neupane B, Horanont T, Aryal J. Real-Time Vehicle Classification and Tracking Us
 
 [Link to the paper](https://www.mdpi.com/1424-8220/22/10/3813)
 
-[Link to the dataset]([https://mappico-my.sharepoint.com/:f:/g/personal/bipul_n_siitgis_com/EnuheiqocJhKmVQJ7t8gpUUBBA-0liubS9CTN0_JnI-dpg?e=H332n0](https://mappico-my.sharepoint.com/:u:/g/personal/bipul_n_siitgis_com/EfPMSt3cEchHnKlc8nuY1cQBGXzC_-vSoUbi61tfozdsJQ?e=7AzCbq))
+[Link to the dataset](https://mappico-my.sharepoint.com/:u:/g/personal/bipul_n_siitgis_com/EfPMSt3cEchHnKlc8nuY1cQBGXzC_-vSoUbi61tfozdsJQ?e=7AzCbq)
