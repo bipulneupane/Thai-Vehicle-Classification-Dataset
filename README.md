@@ -18,6 +18,10 @@ Total:      29474
 
 ![alt text](samples.jpg?raw=true)
 
-Out of these total samples, 80%, 15%, and 5% were taken as train, validation, and test dataset respectively. The folders are setup accordingly, each of them having both images and labels. The dataset is ready to be trained on YOLO models. The terms and condition of using the dataset is to acknowledge and cite the following paper:
+Out of these total samples, 80%, 15%, and 5% were taken as train, validation, and test dataset respectively. The folders are setup accordingly, each of them having both images and labels. The dataset is ready to be trained on YOLO models. The **terms and condition of using the dataset** is to acknowledge and cite the following paper:
+
+Neupane B, Horanont T, Aryal J. Real-Time Vehicle Classification and Tracking Using a Transfer Learning-Improved Deep Learning Network. Sensors. 2022; 22(10):3813. https://doi.org/10.3390/s22103813 
+
+[Link to the paper](https://www.mdpi.com/1424-8220/22/10/3813)
 
 [Link to the dataset](https://mappico-my.sharepoint.com/:f:/g/personal/bipul_n_siitgis_com/EnuheiqocJhKmVQJ7t8gpUUBBA-0liubS9CTN0_JnI-dpg?e=H332n0)
